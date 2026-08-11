@@ -1,6 +1,6 @@
 
 <h3> Hello 🐵!</h3>
-<h4> I'm <a href="www.linkedin.com/in/jaden-ocampo-b6a392429">Jaden</a>, a college student studying computer science in San Francisco.</h4>
+<h4> I'm <a href="www.linkedin.com/in/jaden-a-ocampo">Jaden</a>, a college student studying computer science in San Francisco.</h4>
 <h4> I create projects for whatever I think is cool and for fun.</h4>
 <h4> I primarily like using react, tailwind, sometimes html/css (but i'm rusty), and javascript/typescript (which i'm learning). I also have some  experience using figma for Ui design.</h4>
 <h4> Right now I only have two public projects (<a href="https://github.com/iZ-X/Swp">Sweep</a> & <a href="https://github.com/iZ-X/Spotify-Lens">SpotifyLens</a>), and i'm currently thinking working on my next one, but I have to think about an idea.</h4>
